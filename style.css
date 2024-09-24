@@ -1,0 +1,159 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    gap: 128px;
+    font-weight: 500;
+
+}
+.flex {
+    display: flex !important;
+    justify-content: space-around;
+    margin: 20px;
+}
+a {
+    color: red;
+    list-style: none;
+    text-decoration: none;
+}
+button {
+    border: red 2px solid;
+    border-radius: 8px;
+    width: 180px;
+    height: 47px;
+    color: red;
+    background: transparent;
+}
+main {
+    text-align: center;
+}
+.we {
+    background-color: #DE2E54CC;
+    border-radius: 8px;
+    width: 180px;
+    height: 47px;
+    color: white;
+}
+.ter {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    background-image: url("./img/image\ 4\ \(3\).png");
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.o {
+    color: white;
+    font-weight: 700;
+    font-size: 26px;
+    font-family: Big heading;
+    width:  400px; 
+}
+.xcv {
+    font-family: Big heading;
+    font-size: 26px;
+    font-weight: 700px;
+}
+.j {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 64px;
+}
+.hj {
+    width: 500px;
+    font-family: 'Open sans', sans-serif;
+    text-align: left;
+
+}
+.rt {
+    display: inline-block;
+}
+
+h3 {
+    text-align: left;
+}
+.qaz {
+    background-color: #0EB4C1;
+
+}
+.asd {
+    font-size: 64px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 77.45px;
+    padding: 30px;
+  background-color: #0eb4c1;
+}
+.vbn {
+    width: 513px;
+    height: 331px;
+    top: 1685px;
+    border-radius: 10px;
+    margin: 100px;
+    
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    width: 400px;
+    height: 270px;
+    gap: 14px;
+    border-radius: 10px;
+    padding: 30px;
+    margin-right:150px ;
+
+}
+.jona {
+    background: #38CC8B;
+    box-shadow: 0px -4px 0px 0px #00000017 inset;
+    border: none;
+    color: white;
+    width: 400px;
+    height: 39px;
+   
+
+
+
+} 
+.nbv {
+    background: #222222;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    padding: 10px 34px;
+    gap: 600px;
+}
+input {
+    width: 100%;
+height: 39.11px;
+
+}
+.xiz {
+    justify-content: center;
+    color: #DE2E54;
+    font-family: Open Sans;
+}
+.dfg {
+    color: #FFFFFF;
+    font-family: Open Sans;
+}
